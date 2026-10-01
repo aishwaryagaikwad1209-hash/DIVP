@@ -1,0 +1,13 @@
+Task,Configuration,PSNR_dB,Mean_Gradient_Magnitude
+Task 1,"sigma=10, average=3x3",35.5122,3.0997
+Task 1,"sigma=10, average=5x5",34.5175,1.7648
+Task 1,"sigma=10, average=9x9",32.5572,1.0104
+Task 1,"sigma=25, average=3x3",29.4233,6.3448
+Task 1,"sigma=25, average=5x5",31.7001,3.1986
+Task 1,"sigma=25, average=9x9",31.7444,1.5529
+Task 2,4-neighbor Laplacian,33.0532,2.0047
+Task 2,8-neighbor Laplacian,28.668,3.7999
+Task 3,High-Boost k=1.0,22.5399,17.449
+Task 3,High-Boost k=1.5,20.725,21.2944
+Task 3,High-Boost k=2.0,19.2709,24.9928
+Task 3,High-Boost k=3.0,17.0404,31.9534
